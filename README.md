@@ -14,3 +14,6 @@ This repository contains the theoretical framework and numerical verification fo
 
 ### **Collaboration**
 We are currently seeking collaboration to formalize the **Paper XV Lagrangian**. The goal is to derive a single action that couples the dark sector seesaw to the 30 degrees of freedom of the Standard Model.
+### Citation
+To reference the latest derivation (Paper XV), please use: **Kadunic, D. (2026). Resolving the S8 Tension via the Standard Model Seesaw: A Geometric Derivation of the MSDS Lagrangian.** Zenodo. DOI: 10.5281/zenodo.19197793
+

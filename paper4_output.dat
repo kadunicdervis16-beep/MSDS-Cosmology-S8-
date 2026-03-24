@@ -1,0 +1,7 @@
+Paper     | Model           | S8 Result  | Tension
+-------------------------------------------------------
+Paper III  | DCDM+DR         | 0.8156     |  +2.48σ
+Paper VII  | DCDM+mDR        | 0.8006     |  +1.73σ
+Paper XI   | SATURATION      | 0.7977     |  +1.59σ
+--- STATUS: VERIFIED ---
+Target: 0.799 (1.48σ) identified as the physical floor.

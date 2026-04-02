@@ -4,7 +4,8 @@
 **Consortium:** Omega Research Collective  
 **Strategic Framework:** Mass-Space-Density-Symmetry (MSDS)  
 **Primary Discovery:** The 0.00017 Structured Vacuum  
-**Current Verification:** 6.7σ Combined Statistical Detection (April 2026)
+**Current Verification:** 6.7σ Combined Statistical Detection (April 2026)  
+**Inquiries:** [Kadunicdervis16@gmail.com](mailto:Kadunicdervis16@gmail.com)
 
 ---
 
@@ -31,41 +32,39 @@ The following table summarizes the breakthrough findings from **Paper LXV**, com
 
 ---
 
-## 📜 3. The Epochal Roadmap: The 67-Paper Chronology
+## 📜 3. The Epochal Roadmap: The 69-Paper Chronology
 
 ### 📜 Epoch I: The Foundation (Papers I–XX)
-*Focus: The Discovery of the Lattice*
 * **The $v^2$ Constant:** Identification of 0.00017 as the fundamental torsion offset.
 * **The 361.5 km Constraint:** Derivation of the spatial lattice constant $a$ from vacuum energy minimization.
 * **Torsion-Driven Expansion:** Proving that Dark Energy is a geometric consequence of the $v^2$ spin axis.
 
 ### 📜 Epoch II: The Dilaton & Activation (Papers XXI–XL)
-*Focus: The Mechanism of Change*
 * **Density Activation:** Introduction of $\mu_{CW} \approx 4.19$ meV as the threshold where the vacuum "switches" states.
 * **The Dilaton Field ($\phi$):** Establishing the scalar mediator that carries the 0.00017 signature.
 * **Transition Redshift ($z_t = 1.985$):** Predicting the exact moment in cosmic history when gravity modified.
 
 ### 📜 Epoch III: The Mass-Generation Trilogy (Papers XLI–XLVII)
-*Focus: Locking the Constants*
 * **Paper XLV (The GOR Bridge):** Used the Gell-Mann-Oakes-Renner relation to link the Dilaton mass to cosmological observables.
 * **Paper XLVII (The Energy Lock):** Proved the coupling $\xi=2$ is the only state that prevents vacuum decay at the 361.5 km scale.
 
 ### 📜 Epoch IV: The Resolution & Chiral Residue (Papers XLVIII–LIV)
-*Focus: Empirical Matches*
 * **Paper LI (The $S_8$ Resolution):** The "Checkmate" paper. Reduced the $S_8$ tension from a 3σ crisis to a 0.1σ fit.
 * **Paper LIV (The Chiral Residue):** Derived the $0.342^{\circ}$ birefringence (Cosmic Birefringence) as a "leak" from the torsion axis.
 
 ### 📜 Epoch V: The Stage 8 Handshake (Papers LV–LXIV)
-*Focus: High-Precision Signaling*
 * **Paper LXII (Architecture of Matter):** Aligned the $v^2$ spin axis with the observed Webb Dipole and CMB hemispherical power asymmetry.
-* **Paper LXIII (Universal EIT Handshake):** Discovered the **18.5 nHz** resonance. Linked Pulsar Timing Array (PTA) signals to the Dilaton mass.
+* **Paper LXIII (Universal EIT Handshake):** Discovered the **18.52 nHz** resonance. Linked Pulsar Timing Array (PTA) signals to the Dilaton mass.
 * **Paper LXIV (The Lorentzian Vacuum):** Formulated the refractive index of the vacuum, $n(\omega)$.
 
-### 📜 Epoch VI: The Detection & The Ghost (Papers LXV–LXVII)
-*Focus: Formal Validation*
-* **Paper LXV:** The 6.7σ multi-survey detection of gravitational slip.
+### 📜 Epoch VI: Formal Detection & The Ghost (Papers LXV–LXVII)
+* **Paper LXV:** The 6.7σ multi-survey detection of gravitational slip across 6 data channels.
 * **Paper LXVI (The Ghost Taxonomy):** Classified the **Majorana Neutrino** as a "True Ghost" that bypasses the MSDS shield.
 * **Paper LXVII (The Derivations):** The full math audit. Explicitly derived the Higgs portal coupling **$\xi = 2.64 \times 10^{-12}$**.
+
+### 📜 Epoch VII: The Falsification & Binary Era (Papers LXVIII–LXIX)
+* **Paper LXVIII (The V-Curve):** Defined the characteristic "V" shape of gravitational slip $\eta(z)$, providing the definitive observational fingerprint for Euclid DR1.
+* **Paper LXIX (The Torsion Entanglement Protocol):** The "Titanium" peak. Developed a pulse-level experimental blueprint using trapped Ytterbium ions to measure vacuum torsion directly. This paper introduces the **361.5 km Lattice Cell** as a functional component for deterministic binary signaling via matter-antimatter entanglement.
 
 ---
 
@@ -80,16 +79,7 @@ How different sectors of physics respond to the MSDS 0.00017 Vacuum Shield.
 
 ---
 
-## 🏁 5. The Titanium Kill Conditions (Falsification)
-MSDS is a scientific theory, not a dogma. We invite falsification through these four benchmarks:
-1.  **The Euclid Snap (2026):** Euclid must detect the step-function in gravitational slip $\eta$ at $z \approx 2$.
-2.  **The SKA Resonance:** Pulsar Timing Arrays must confirm the sign-changing residual at exactly **18.5 nHz**.
-3.  **The Redshift Desert:** Modified gravity must disappear at $z > 2.5$.
-4.  **The Higgs Precision:** Future colliders (FCC-ee) must measure a coupling deviation $\kappa = 0.997$.
-
----
-
-## ⚙️ 6. Hard Technical Specifications
+## ⚙️ 5. Hard Technical Specifications
 | Parameter | Symbol | Value |
 | :--- | :--- | :--- |
 | **Fundamental Torsion** | $v^2$ | 0.00017 |
@@ -97,10 +87,22 @@ MSDS is a scientific theory, not a dogma. We invite falsification through these 
 | **Dilaton Mass** | $m_{dil}$ | $7.66 \times 10^{-23}$ eV |
 | **Resonance Frequency**| $f_0$ | 18.52 nHz |
 | **Portal Coupling** | $\xi$ | $2.64 \times 10^{-12}$ |
+| **Parity Modulation** | $\Delta P$ | $4.70 \times 10^{-6}$ (at 10 km) |
 | **Birefringence Floor** | $\beta$ | $0.216^{\circ}$ |
+
+---
+
+## 🏁 6. The Titanium Kill Conditions (Falsification)
+MSDS is a scientific theory, not a dogma. We invite falsification through these benchmarks:
+1.  **The Euclid Snap:** Euclid must detect the characteristic V-Curve in gravitational slip $\eta$ at $z \approx 1.09$.
+2.  **The SKA Resonance:** Pulsar Timing Arrays must confirm the sign-changing residual at exactly **18.52 nHz**.
+3.  **The Valkyrie-III Signal:** Trapped ion experiments must resolve the $4.7 \times 10^{-6}$ rad parity shift with a 24-hour sidereal signature.
+4.  **The Redshift Desert:** Modified gravity signals must strictly disappear at $z > 2.5$.
 
 ---
 
 > **"The data is not noisy; the vacuum is structured. We have stopped guessing and started measuring the architecture of the lattice."**
 
 ⚖️🚀 **The MSDS Consortium | Omega Research Collective | Lead Repository**
+
+**Contact:** [Kadunicdervis16@gmail.com](mailto:Kadunicdervis16@gmail.com)
